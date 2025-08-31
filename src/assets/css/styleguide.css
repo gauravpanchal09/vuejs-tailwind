@@ -1,0 +1,9 @@
+:root {
+  --heading: rgba(43, 51, 63, 1);
+  --main-green: rgba(99, 194, 104, 1);
+  --body-text: rgba(61, 62, 64, 1);
+  --main-blue: rgba(48, 141, 211, 1);
+  --blur-in-dark-bg: 0px 27px 35px 0px rgba(0, 0, 0, 0.1);
+  --icon: 0px 8px 8px 0px rgba(0, 0, 0, 0.15);
+  --shadow-1: 0px 25px 55px 0px rgba(0, 0, 0, 0.1);
+}
